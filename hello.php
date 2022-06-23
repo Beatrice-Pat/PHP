@@ -9,5 +9,5 @@ if ($readed) {
     echo "Pas lu";
 }
 echo "$parutionYear";
-echo "$price";
+echo "$bookPrice";
 ?>
