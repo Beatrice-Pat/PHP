@@ -11,15 +11,4 @@ foreach($books as $book => $bookYear ) {
     echo nl2br("$bookYear - $book\n") ;
 }
 
-
-
-
-
-
-
-
-
-
-
-
 ?> 
